@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28315.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clickerty Carrots", "Clickerty Carrots\Clickerty Carrots.csproj", "{EA00083E-493E-47F5-BDB5-25B0B47CED22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA00083E-493E-47F5-BDB5-25B0B47CED22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA00083E-493E-47F5-BDB5-25B0B47CED22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA00083E-493E-47F5-BDB5-25B0B47CED22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA00083E-493E-47F5-BDB5-25B0B47CED22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EA56433-89C3-483A-B7C5-A78A03EF1196}
+	EndGlobalSection
+EndGlobal
