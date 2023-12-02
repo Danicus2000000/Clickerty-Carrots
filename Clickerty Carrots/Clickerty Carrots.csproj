@@ -138,21 +138,49 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="fertilizer.png" />
-    <Content Include="heart.png" />
-    <Content Include="icon.ico" />
-    <Content Include="main.wav" />
-    <Content Include="Music.wav" />
-    <Content Include="plotlvl1.png" />
-    <Content Include="plotlvl2.png" />
-    <Content Include="plotlvl3.png" />
-    <Content Include="plotlvl4.png" />
+    <Content Include="fertilizer.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="heart.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="icon.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="main.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Music.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="plotlvl1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="plotlvl2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="plotlvl3.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="plotlvl4.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="save.txt" />
-    <Content Include="shrooms.png" />
-    <Content Include="up2.png" />
-    <Content Include="up3.png" />
-    <Content Include="up4.png" />
-    <Content Include="watercan.png" />
+    <Content Include="shrooms.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="up2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="up3.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="up4.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="watercan.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
