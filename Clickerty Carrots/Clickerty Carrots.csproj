@@ -2,17 +2,11 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net9.0-windows</TargetFramework>
+    <TargetFramework>net10.0-windows</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <usewindowsforms>true</usewindowsforms>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Compile Update="shop.cs">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Compile>
-  </ItemGroup>
 
   <ItemGroup>
     <None Update="fertilizer.png">
